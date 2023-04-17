@@ -1,4 +1,4 @@
-![Software Engineer](https://github.com/ChrisCarino1/ChrisCarino1/blob/main/readme_banner.png)
+![Software Engineer](https://github.com/ChrisCarino1/ChrisCarino1/blob/main/readme_banner2.png)
 
 ### Hi, I'm Christian Eclarino 👋👨‍💻
 
