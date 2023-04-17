@@ -1,8 +1,9 @@
+![Software Engineer](https://github.com/ChrisCarino1/ChrisCarino1/blob/main/readme_banner.png)
+
 ### Hi, I'm Christian Eclarino 👋👨‍💻
 
 I'm a Software Engineer who is passionate
 
-![Software Engineer](https://github.com/ChrisCarino1/ChrisCarino1/blob/main/readme_banner.png)
 
 ## Skills and Experience
 <!--
