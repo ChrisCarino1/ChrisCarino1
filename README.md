@@ -1,11 +1,15 @@
-![Software Engineer](https://github.com/ChrisCarino1/ChrisCarino1/blob/main/readme_banner2.png)
-
 ### Hi, I'm Christian Eclarino 👋👨‍💻
 
-I'm a Software Engineer who is passionate
-
+I'm a Software Engineer who is passionate about creating value for others with my code! 
 
 ## Skills and Experience
+* ⚛ React
+* 💻 HTML, CSS, JS
+* 🐍 Python
+* ☕ Java
+
+## Examples of work
+
 <!--
 **ChrisCarino1/ChrisCarino1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
