@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi, I'm Christian Eclarino 👋👨‍💻
 
+I'm a Software Engineer who is passionate
+
+
+## Skills and Experience
 <!--
 **ChrisCarino1/ChrisCarino1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
