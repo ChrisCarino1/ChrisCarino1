@@ -5,6 +5,8 @@ I'm a Full-Stack Web Developer that studied at Coding Dojo, a coding bootcamp th
 Nowadays, I am constantly striving to educate, refine, and improve myself in order to be ready when opportunity knocks. I love to learn and welcome adversity because I know it will only serve as catalysts for my personal growth. And please don't hesitate to contact me if you have any questions regarding my projects!
 
 ## Skillset:
+
+Languages
 * HTML
 * CSS
 * Javascript
