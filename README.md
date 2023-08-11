@@ -1,6 +1,6 @@
 ### Hi, I'm Christian Eclarino 👋👨‍💻
 
-Hey! I'm a Full-Stack Web Developer that studied at Coding Dojo, a coding bootcamp that truly sparked a missing passion within me. Through coding, I came to realize my capacity to offer meaningful contributions to others through my programming prowess, and to embrace the diverse array of possibilities that come hand in hand with this skillset!
+I'm a Full-Stack Web Developer that studied at Coding Dojo, a coding bootcamp that truly sparked a missing passion within me. Through coding, I came to realize my capacity to offer meaningful contributions to others through my programming prowess, and to embrace the diverse array of possibilities that come hand in hand with this skillset!
 
 Nowadays, I am constantly striving to educate, refine, and improve myself in order to be ready when opportunity knocks. I love to learn and welcome adversity because I know it will only serve as catalysts for my personal growth. And please don't hesitate to contact me if you have any questions regarding my projects!
 
