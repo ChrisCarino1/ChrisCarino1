@@ -25,12 +25,11 @@ Currently Working On...
 
 Currently Learning...
 * Vite
-* Tailwind
+* Tailwind CSS
 
 Planning to learn...
 * Svelte
 * Solidity
-
 
 ## Examples of work:
 
