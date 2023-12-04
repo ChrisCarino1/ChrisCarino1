@@ -21,7 +21,7 @@ Libraries & Frameworks
 ## Learning Plan:
 
 Currently Working On... 
-* A new react project
+* Integrating Webflow into a react project
 
 Currently Learning...
 * Vite
